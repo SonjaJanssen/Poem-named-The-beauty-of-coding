@@ -32,22 +32,6 @@ poem <- c(
 cat(poem, sep = "\n")
 
 ## Output saved in PDF: 
-The beauty of coding, both simple and grand,
-In R Rstudio we create, with lines of command.
-Data comes alive, in vectors and frames,
-With plots and graphs, we play with its games.
+https://github.com/SonjaJanssen/Poem-named-The-beauty-of-coding/blob/main/Output%20code_Poem%20The%20beauty%20of%20coding%20by%20Sonja%20Janssen-Sahebzad.pdf
 
-Functions and loops, they dance hand in hand,
-Creating solutions, that we understand.
-From data manipulation to analysis  so deep,
-R and RStudio helps us explore, secrets to keep.
-
-So let us write codes, like verses of rhyme,
-Solving problems anew, one step at a time.
-With each line we write, a beautiful story unfolds,
-In the world of R RStudio, where creativity molds.
-
-Farewell to this poem, written in code,
-In R RStudio we find wonders, in every line showed.
-
-Author: Sonja Janssen-Sahebzad
+#### Tested codes: Ok
